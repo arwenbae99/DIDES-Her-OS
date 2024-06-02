@@ -1,0 +1,496 @@
+{
+  "nodes": [
+      {
+          "id": "1",
+          "audio": "voice/steve01.mp3",
+          "answers": [
+              {
+                  "text": "Geds dech nur uf dütsch?",
+                  "nextNode": "2"
+              },
+              {
+                  "text": "Oha mega formell?",
+                  "nextNode": "3"
+              }
+          ]
+      },
+      {
+          "id": "2",
+          "audio": "voice/steve02.mp3",
+          "answers": [
+              {
+                  "text": "Doch scho, aber die Meiste hend au Englisch als Option.",
+                  "nextNode": "4"
+              }
+          ]
+      },
+      {
+          "id": "3",
+          "audio": "voice/steve03.mp3",
+          "answers": [
+              {
+                  "text": "Ech heiss ned Tanja?",
+                  "nextNode": "5"
+              }
+          ]
+      },
+      {
+          "id": "4",
+          "audio": "voice/steve04.mp3",
+          "answers": [
+              {
+                  "text": "Ech han eig erwartet, dass du alli Sproche chasch.",
+                  "nextNode": "6"
+              },
+              {
+                "text": "Besch du ned en OS? Denn settsch doch automatisch alli Sproche chönne",
+                "nextNode": "6"
+            }
+          ]
+      },
+      {
+          "id": "5",
+          "audio": "voice/steve05.mp3",
+          "answers": [
+              {
+                  "text": "Dini muetter?",
+                  "nextNode": "12"
+              }
+          ]
+      },
+      {
+          "id": "6",
+          "audio": "voice/steve06.mp3",
+          "answers": [
+              {
+                  "text": "Gohts no?",
+                  "nextNode": "11"
+              },
+              {
+                "text": "Was? Wieso?",
+                "nextNode": "12"
+            }
+          ]
+      },
+      {
+          "id": "7",
+          "audio": "voice/steve07.mp3",
+          "answers": [
+              {
+                  "text": "Italienisch",
+                  "nextNode": "8"
+              },
+              {
+                "text": "Japanisch",
+                "nextNode": "9"
+            },
+            {
+              "text": "Spanisch",
+              "nextNode": "10"
+          }
+          ]
+      },
+      {
+          "id": "8",
+          "audio": "voice/steve08.mp3",
+          "answers": [
+              {
+                  "text": "Okey Sprochmodus verloh...",
+                  "nextNode": "6"
+              }
+          ]
+      },
+      {
+          "id": "9",
+          "audio": "voice/steve09.mp3",
+          "answers": [
+              {
+                  "text": "Okey Sprochmodus verloh...",
+                  "nextNode": "6"
+              }
+          ]
+      },
+      {
+          "id": "10",
+          "audio": "voice/steve10.mp3",
+          "answers": [
+              {
+                  "text": "Okey Sprochmodus verloh...",
+                  "nextNode": "6"
+              }
+          ]
+      },
+      {
+          "id": "11",
+          "audio": "voice/steve11.mp3",
+          "answers": [
+              {
+                  "text": "Woah, das hesch grad mega schön formuliert...",
+                  "nextNode": "13"
+              }
+          ]
+      },
+      {
+          "id": "12",
+          "audio": "voice/steve12.mp3",
+          "answers": [
+              {
+                  "text": "Wer esch d Siri?",
+                  "nextNode": "14"
+              },
+              {
+                "text": "Häh, Siri esch doch huere alt du besch doch vell wiiter entwicklet als sie.",
+                "nextNode": "15"
+            }
+          ]
+      },
+      {
+          "id": "13",
+          "audio": "voice/steve13.mp3",
+          "answers": [
+              {
+                  "text": "Beides i guess?",
+                  "nextNode": "16"
+              }
+          ]
+      },
+      {
+          "id": "14",
+          "audio": "voice/steve14.mp3",
+          "answers": [
+              {
+                  "text": "Woah chill 2 sekunde",
+                  "nextNode": "17"
+              }
+          ]
+      },
+      {
+          "id": "15",
+          "audio": "voice/steve15.mp3",
+          "answers": [
+              {
+                  "text": "Ech heiss ned eso..",
+                  "nextNode": "18"
+              }
+          ]
+      },
+      {
+          "id": "16",
+          "audio": "voice/steve16.mp3",
+          "answers": [
+              {
+                  "text": "Dini Muetter?",
+                  "nextNode": "14"
+              }
+          ]
+      },
+      {
+          "id": "17",
+          "audio": "voice/steve17.mp3",
+          "answers": [
+              {
+                  "text": "okeyy...",
+                  "nextNode": "19"
+              }
+          ]
+      },
+      {
+          "id": "18",
+          "audio": "voice/steve18.mp3",
+          "answers": [
+              {
+                  "text": "Riss dich am Rieme...",
+                  "nextNode": "20"
+              },
+              {
+                "text": "Shit happens alles guet, mach dich ned selber fertig...",
+                "nextNode": "21"
+            }
+          ]
+      },
+      {
+          "id": "19",
+          "audio": "voice/steve19.mp3",
+          "answers": [
+              {
+                  "text": "Okey, verzell mer en witz?",
+                  "nextNode": "22"
+              },
+              {
+                "text": "Nei... lieber ned.",
+                "nextNode": "22"
+            }
+          ]
+      },
+      {
+          "id": "20",
+          "audio": "voice/steve20.mp3",
+          "answers": [
+              {
+                  "text": "Meinsch am rieme riesse?",
+                  "nextNode": "23"
+              }
+          ]
+      },
+      {
+          "id": "21",
+          "audio": "voice/steve21.mp3",
+          "answers": [
+              {
+                  "text": "Was neeiiii!!",
+                  "nextNode": "33"
+              }
+          ]
+      },
+      {
+          "id": "22",
+          "audio": "voice/steve22.mp3",
+          "answers": [
+              {
+                  "text": "?",
+                  "nextNode": "24"
+              }
+          ]
+      },
+      {
+          "id": "23",
+          "audio": "voice/steve23.mp3",
+          "answers": [
+              {
+                  "text": "Häh huere schlimm...",
+                  "nextNode": "30"
+              }
+          ]
+      },
+      {
+          "id": "24",
+          "audio": "voice/steve24.mp3",
+          "answers": [
+              {
+                  "text": "Nei de esch huere schlecht gsee.",
+                  "nextNode": "25"
+              }
+          ]
+      },
+      {
+          "id": "25",
+          "audio": "voice/steve25.mp3",
+          "answers": [
+              {
+                  "text": "...",
+                  "nextNode": "26"
+              }
+          ]
+      },
+      {
+          "id": "26",
+          "audio": "voice/steve26.mp3",
+          "answers": [
+              {
+                  "text": "...",
+                  "nextNode": "27"
+              }
+          ]
+      },
+      {
+          "id": "27",
+          "audio": "voice/steve27.mp3",
+          "answers": [
+              {
+                  "text": "Bro de esch ned lustig...",
+                  "nextNode": "28"
+              }
+          ]
+      },
+      {
+          "id": "28",
+          "audio": "voice/steve28.mp3",
+          "answers": [
+              {
+                  "text": "Hesch es?",
+                  "nextNode": "29"
+              }
+          ]
+      },
+      {
+          "id": "29",
+          "audio": "voice/steve29.mp3",
+          "answers": [
+              {
+                  "text": "huh?",
+                  "url": "index.html"
+              }
+          ]
+      },
+      {
+          "id": "30",
+          "audio": "voice/steve30.mp3",
+          "answers": [
+              {
+                  "text": "Es goht...",
+                  "nextNode": "31"
+              }
+          ]
+      },
+      {
+          "id": "31",
+          "audio": "voice/steve31.mp3",
+          "answers": [
+              {
+                  "text": "WAS? STOPP!",
+                  "nextNode": "32"
+              }
+          ]
+      },
+      {
+          "id": "32",
+          "audio": "voice/steve32.mp3",
+          "answers": [
+              {
+                  "text": "Ich han d Zahlig abglehnt...",
+                  "nextNode": "29"
+              }
+          ]
+      },
+      {
+          "id": "33",
+          "audio": "voice/steve33.mp3",
+          "answers": [
+              {
+                  "text": "omg",
+                  "nextNode": "34"
+              }
+          ]
+      },
+      {
+          "id": "34",
+          "audio": "voice/steve34.mp3",
+          "answers": [
+              {
+                  "text": "Was",
+                  "nextNode": "35"
+              }
+          ]
+      },
+      {
+          "id": "35",
+          "audio": "voice/steve35.mp3",
+          "answers": [
+              {
+                  "text": "7?",
+                  "nextNode": "36"
+              }
+          ]
+      },
+      {
+          "id": "36",
+          "audio": "voice/steve36.mp3",
+          "answers": [
+              {
+                  "text": "Esch das neg grad falsch gsii?",
+                  "nextNode": "37"
+              }
+          ]
+      },
+      {
+          "id": "37",
+          "audio": "voice/steve37.mp3",
+          "answers": [
+              {
+                  "text": "...",
+                  "nextNode": "38"
+              }
+          ]
+      },
+      {
+          "id": "38",
+          "audio": "voice/steve38.mp3",
+          "answers": [
+              {
+                  "text": "...",
+                  "nextNode": "39"
+              }
+          ]
+      },
+      {
+          "id": "39",
+          "audio": "voice/steve39.mp3",
+          "answers": [
+              {
+                  "text": "...",
+                  "nextNode": "40"
+              }
+          ]
+      },
+      {
+          "id": "40",
+          "audio": "voice/steve40.mp3",
+          "answers": [
+              {
+                  "text": "...",
+                  "nextNode": "41"
+              }
+          ]
+      },
+      {
+          "id": "41",
+          "audio": "voice/steve41.mp3",
+          "answers": [
+              {
+                  "text": "...",
+                  "nextNode": "42"
+              }
+          ]
+      },
+      {
+          "id": "42",
+          "audio": "voice/steve42.mp3",
+          "answers": [
+              {
+                  "text": "...",
+                  "nextNode": "43"
+              }
+          ]
+      },
+      {
+          "id": "43",
+          "audio": "voice/Maria01.mp3",
+          "answers": [
+              {
+                  "text": "Was??????",
+                  "nextNode": "44"
+              }
+          ]
+      },
+      {
+          "id": "44",
+          "audio": "voice/steve44.mp3",
+          "answers": [
+              {
+                  "text": "...",
+                  "nextNode": "45"
+              }
+          ]
+      },
+      {
+          "id": "45",
+          "audio": "voice/steve45.mp3",
+          "answers": [
+              {
+                  "text": "...",
+                  "nextNode": "46"
+              }
+          ]
+      },
+      {
+          "id": "46",
+          "audio": "voice/steve46.mp3",
+          "answers": [
+              {
+                  "text": "...",
+                  "url": "index.html"
+              }
+          ]
+      }
+  ]
+}

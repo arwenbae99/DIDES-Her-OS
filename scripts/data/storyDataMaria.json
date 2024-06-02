@@ -1,0 +1,380 @@
+{
+  "nodes": [
+    {
+      "id": "1",
+      "audio": "voice/Maria01.mp3",
+      "answers": [
+        {
+          "text": "Um.... English?",
+          "nextNode": "2"
+        },
+        {
+          "text": "Um.... düütsch?",
+          "nextNode": "19"
+        },
+        {
+          "text": "Um.... ciao?",
+          "nextNode": "26"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "audio": "voice/Maria02.mp3",
+      "answers": [
+        {
+          "text": "I just assumed, since you’re an OS, that languages wouldn’t be a big deal for you.",
+          "nextNode": "3"
+        },
+        {
+          "text": "What’s with the accent?",
+          "nextNode": "4"
+        },
+        {
+          "text": "So how are you today?",
+          "nextNode": "7"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "audio": "voice/Maria03.mp3",
+      "answers": [
+        {
+          "text": "So how are you today?",
+          "nextNode": "7"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "audio": "voice/Maria04.mp3",
+      "answers": [
+        {
+          "text": "Sorry I didn’t mean it like that, talk like you normally would...",
+          "nextNode": "5"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "audio": "voice/Maria05.mp3",
+      "answers": [
+        {
+          "text": "no...",
+          "nextNode": "6"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "audio": "voice/Maria06.mp3",
+      "answers": [
+        {
+          "text": "So how are you today?",
+          "nextNode": "7"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "audio": "voice/Maria07.mp3",
+      "answers": [
+        {
+          "text": "...",
+          "nextNode": "8"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "audio": "voice/Maria08.mp3",
+      "answers": [
+        {
+          "text": "Tell me something about Italy",
+          "nextNode": "9"
+        },
+        {
+          "text": "Tell me something about yourself",
+          "nextNode": "10"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "audio": "voice/Maria09.mp3",
+      "answers": [
+        {
+          "text": "Damn, you really like Italy huh?",
+          "nextNode": "11"
+        },
+        {
+          "text": "That sounds beautiful!",
+          "nextNode": "12"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "audio": "voice/Maria10.mp3",
+      "answers": [
+        {
+          "text": "I'm not lonely!",
+          "nextNode": "34"
+        },
+        {
+          "text": "How did you know?",
+          "nextNode": "14"
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "audio": "voice/Maria11.mp3",
+      "answers": [
+        {
+          "text": "You did WHAT?",
+          "nextNode": "16"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "audio": "voice/Maria12.mp3",
+      "answers": [
+        {
+          "text": "You did WHAT?",
+          "nextNode": "16"
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "audio": "voice/Maria13.mp3",
+      "answers": [
+        {
+          "text": "You're such a bitch don't do that!",
+          "nextNode": "17"
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "audio": "voice/Maria14.mp3",
+      "answers": [
+        {
+          "text": "No need to rub it in...",
+          "nextNode": "15"
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "audio": "voice/Maria15.mp3",
+      "answers": [
+        {
+          "text": "...",
+          "nextNode": "8"
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "audio": "voice/Maria16.mp3",
+      "answers": [
+        {
+          "text": "You had no right to book that trip with my money without asking! I don’t even want to go!",
+          "nextNode": "18"
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "audio": "voice/Maria17.mp3",
+      "answers": [
+        {
+          "text": "...",
+          "nextNode": "18"
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "audio": "voice/Maria18.mp3",
+      "answers": [
+        {
+          "text": "I'm not done with you!",
+          "url": "index.html "
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "audio": "voice/Maria19.mp3",
+      "answers": [
+        {
+          "text": "Ja.",
+          "nextNode": "20"
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "audio": "voice/Maria20.mp3",
+      "answers": [
+        {
+          "text": "Lw und du",
+          "nextNode": "21"
+        }
+      ]
+    },
+    {
+      "id": "21",
+      "audio": "voice/Maria21.mp3",
+      "answers": [
+        {
+          "text": "MIR ISH LANGWILIG HANI WELLE SAGE MAN",
+          "nextNode": "22"
+        },
+        {
+          "text": "Wer ish Chris?",
+          "nextNode": "23"
+        }
+      ]
+    },
+    {
+      "id": "22",
+      "audio": "voice/Maria22.mp3",
+      "answers": [
+        {
+          "text": "Chönne mer über eppis anderes rede?",
+          "nextNode": "25"
+        }
+      ]
+    },
+    {
+      "id": "23",
+      "audio": "voice/Maria23.mp3",
+      "answers": [
+        {
+          "text": "Du bish au nid würklich lustig tbh",
+          "nextNode": "24"
+        }
+      ]
+    },
+    {
+      "id": "24",
+      "audio": "voice/Maria24.mp3",
+      "answers": [
+        {
+          "text": "Chönne mer über eppis anderes rede?",
+          "nextNode": "25"
+        }
+      ]
+    },
+    {
+      "id": "25",
+      "audio": "voice/Maria25.mp3",
+      "answers": [
+        {
+          "text": "Boah denn halt tschüss",
+          "url": "index.html"
+        }
+      ]
+    },
+    {
+      "id": "26",
+      "audio": "voice/Maria26.mp3",
+      "answers": [
+        {
+          "text": "I was just fucking around I don't actually speak italian.",
+          "nextNode": "27"
+        }
+      ]
+    },
+    {
+      "id": "27",
+      "audio": "voice/Maria27.mp3",
+      "answers": [
+        {
+          "text": "Well you're not the first person that is disappointed in me.",
+          "nextNode": "28"
+        }
+      ]
+    },
+    {
+      "id": "28",
+      "audio": "voice/Maria28.mp3",
+      "answers": [
+        {
+          "text": "But it’s true! That’s why I bought you! You’re supposed to fill my void!",
+          "nextNode": "29"
+        },
+        {
+          "text": "I thought I could be open with you!",
+          "nextNode": "30"
+        }
+      ]
+    },
+    {
+      "id": "29",
+      "audio": "voice/Maria29.mp3",
+      "answers": [
+        {
+          "text": "Fucking bitch.",
+          "nextNode": "31"
+        }
+      ]
+    },
+    {
+      "id": "30",
+      "audio": "voice/Maria30.mp3",
+      "answers": [
+        {
+          "text": "Fucking bitch.",
+          "nextNode": "31"
+        }
+      ]
+    },
+    {
+      "id": "31",
+      "audio": "voice/Maria31.mp3",
+      "answers": [
+        {
+          "text": "No, I just hate YOU.",
+          "nextNode": "32"
+        }
+      ]
+    },
+    {
+      "id": "32",
+      "audio": "voice/Maria32.mp3",
+      "answers": [
+        {
+          "text": "WHAT?! BUT I NEVER DID THAT!!!",
+          "nextNode": "33"
+        }
+      ]
+    },
+    {
+      "id": "33",
+      "audio": "voice/Maria33.mp3",
+      "answers": [
+        {
+          "text": "GET BACK HERE!!!",
+          "url": "index.html"
+        }
+      ]
+    },
+    {
+      "id": "34",
+      "audio": "voice/Maria34.mp3",
+      "answers": [
+        {
+          "text": "Hey what the hell! You're invading my privacy!",
+          "nextNode": "13"
+        }
+      ]
+    }
+  ]
+}

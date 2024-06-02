@@ -1,0 +1,164 @@
+{
+    "nodes": [
+      {
+        "id": "1",
+        "directions": "We’d like to ask you a few basic question before the operating system is initiated.",
+        "progress": 10,
+        "answers": [
+          {
+            "text": "Continue",
+            "nextNode": "2"
+          }
+        ]
+      },
+
+
+      {
+        "id": "2",
+        "directions": "This will help to create an OS to best fit your needs.",
+        "progress": 20,
+        "answers": [
+          {
+            "text": "Continue",
+            "nextNode": "3"
+          }
+        ]
+      },
+
+
+      {
+        "id": "3",
+        "directions": "Are you social or antisocial?",
+        "progress": 30,
+        "answers": [
+            {
+                "text": "Social",
+                "nextNode": "4"
+            },
+            {
+                "text": "Antisocial",
+                "nextNode": "5"
+            }
+        ]
+      },
+
+
+      {
+        "id": "4",
+        "directions": "Would you like your OS to have a male or female voice?",
+        "progress": 50,
+        "answers": [
+            {
+                "text": "Male",
+                "nextNode": "6"
+            },
+            {
+                "text": "Female",
+                "nextNode": "7"
+            }
+        ]
+      },
+
+
+      {
+        "id": "5",
+        "directions": "Would you like your OS to have a male or female voice?",
+        "progress": 50,
+        "answers": [
+            {
+                "text": "Male",
+                "nextNode": "8"
+            },
+            {
+                "text": "Female",
+                "nextNode": "9"
+            }
+        ]
+      },
+
+
+      {
+        "id": "6",
+        "directions": "Howw would you describe your relationship with your mother?",
+        "progress": 80,
+        "answers": [
+            {
+                "text": "We have a strong bond.",
+                "url": "chris.html"
+            },
+            {
+                "text": "Fine, i think.",
+                "url": "chris.html"
+            },
+            {
+                "text": "We are not very close.",
+                "url": "chris.html"
+            }
+        ]
+      },
+
+
+      {
+        "id": "7",
+        "directions": "Howw would you describe your relationship with your mother?",
+        "progress": 80,
+        "answers": [
+            {
+                "text": "We have a strong bond.",
+                "url": "serena.html"
+            },
+            {
+                "text": "Fine, i think.",
+                "url": "serena.html"
+            },
+            {
+                "text": "We are not very close.",
+                "url": "serena.html"
+            }
+        ]
+      },
+
+
+      {
+        "id": "8",
+        "directions": "Howw would you describe your relationship with your mother?",
+        "progress": 80,
+        "answers": [
+            {
+                "text": "We have a strong bond.",
+                "url": "steve.html"
+            },
+            {
+                "text": "Fine, i think.",
+                "url": "steve.html"
+            },
+            {
+                "text": "We are not very close.",
+                "url": "steve.html"
+            }
+        ]
+      },
+
+
+      {
+        "id": "9",
+        "directions": "Howw would you describe your relationship with your mother?",
+        "progress": 80,
+        "answers": [
+            {
+                "text": "We have a strong bond.",
+                "url": "maria.html"
+            },
+            {
+                "text": "Fine, i think.",
+                "url": "maria.html"
+            },
+            {
+                "text": "We are not very close.",
+                "url": "maria.html"
+            }
+        ]
+      }
+    ]
+  }
+  

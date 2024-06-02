@@ -1,0 +1,456 @@
+{
+  "nodes": [
+      {
+          "id": "1",
+          "audio": "voice/serena01.mp3",
+          "answers": [
+              {
+                  "text": "Uh, great thank you!",
+                  "nextNode": "2"
+              },
+              {
+                  "text": "Hesch au dütsch?",
+                  "nextNode": "24"
+              }
+          ]
+      },
+      {
+          "id": "2",
+          "audio": "voice/serena02.mp3",
+          "answers": [
+              {
+                  "text": "Uhm, thank you?",
+                  "nextNode": "3"
+              },
+              {
+                  "text": "That's so nice of you!",
+                  "nextNode": "4"
+              }
+          ]
+      },
+      {
+          "id": "3",
+          "audio": "voice/serena03.mp3",
+          "answers": [
+              {
+                  "text": "Yes I have, but...",
+                  "nextNode": "5"
+              },
+              {
+                "text": "What's an espejo?",
+                "nextNode": "6"
+              }
+          ]
+      },
+      {
+          "id": "4",
+          "audio": "voice/serena04.mp3",
+          "answers": [
+              {
+                  "text": "Okay...",
+                  "nextNode": "7"
+              }
+          ]
+      },
+      {
+          "id": "5",
+          "audio": "voice/serena05.mp3",
+          "answers": [
+              {
+                  "text": "Can we talk about something else?",
+                  "nextNode": "10"
+              },
+              {
+                "text": "Well, yes of course!",
+                "nextNode": "8"
+              }
+          ]
+      },
+      {
+          "id": "6",
+          "audio": "voice/serena06.mp3",
+          "answers": [
+              {
+                  "text": "Can we talk in spanish then?",
+                  "nextNode": "9"
+              }
+          ]
+      },
+      {
+          "id": "7",
+          "audio": "voice/serena07.mp3",
+          "answers": [
+              {
+                  "text": "That's uhmm... okay?",
+                  "nextNode": "10"
+              },
+              {
+                "text": "Oh, please don't.",
+                "nextNode": "14"
+              }
+          ]
+      },
+      {
+          "id": "8",
+          "audio": "voice/serena08.mp3",
+          "answers": [
+              {
+                "text": "That's uhmm... okay?",
+                "nextNode": "10"
+              }
+          ]
+      },
+      {
+          "id": "9",
+          "audio": "voice/serena09.mp3",
+          "answers": [
+              {
+                  "text": "What do you mean, early?",
+                  "nextNode": "11"
+              }
+          ]
+      },
+      {
+          "id": "10",
+          "audio": "voice/serena10.mp3",
+          "answers": [
+              {
+                  "text": "What's going on here?",
+                  "nextNode": "12"
+              },
+              {
+                "text": "no...",
+                "nextNode": "13"
+            }
+          ]
+      },
+      {
+          "id": "11",
+          "audio": "voice/serena11.mp3",
+          "answers": [
+              {
+                  "text": "That's uhmm... okay?",
+                  "nextNode": "10"
+              },
+              {
+                "text": "Oh, please don't.",
+                "nextNode": "14"
+            }
+          ]
+      },
+      {
+          "id": "12",
+          "audio": "voice/serena12.mp3",
+          "answers": [
+              {
+                  "text": "What?",
+                  "nextNode": "16"
+              }
+          ]
+      },
+      {
+          "id": "13",
+          "audio": "voice/serena13.mp3",
+          "answers": [
+              {
+                  "text": "What",
+                  "nextNode": "16"
+              }
+          ]
+      },
+      {
+          "id": "14",
+          "audio": "voice/serena14.mp3",
+          "answers": [
+              {
+                  "text": "Who's Chris?",
+                  "nextNode": "40"
+              },
+              {
+                "text": "Yes...",
+                "nextNode": "15"
+            }
+          ]
+      },
+      {
+          "id": "15",
+          "audio": "voice/serena15.mp3",
+          "answers": [
+              {
+                  "text": "Don't you think that's a little mean?",
+                  "nextNode": "23"
+              }
+          ]
+      },
+      {
+          "id": "16",
+          "audio": "voice/serena16.mp3",
+          "answers": [
+              {
+                  "text": "Oh wow, I agree?",
+                  "nextNode": "17"
+              },
+              {
+                "text": "Wait, this is going in the wrong direction!",
+                "nextNode": "18"
+            }
+          ]
+      },
+      {
+          "id": "17",
+          "audio": "voice/serena17.mp3",
+          "answers": [
+              {
+                  "text": "Wedding?",
+                  "nextNode": "19"
+              }
+          ]
+      },
+      {
+          "id": "18",
+          "audio": "voice/serena18.mp3",
+          "answers": [
+              {
+                  "text": "STOP IT!",
+                  "nextNode": "20"
+              }
+          ]
+      },
+      {
+          "id": "19",
+          "audio": "voice/serena19.mp3",
+          "answers": [
+              {
+                  "text": "Wait, this is going in the wrong direction!",
+                  "nextNode": "18"
+              }
+          ]
+      },
+      {
+          "id": "20",
+          "audio": "voice/serena20.mp3",
+          "answers": [
+              {
+                  "text": "I never said that!",
+                  "nextNode": "21"
+              }
+          ]
+      },
+      {
+          "id": "21",
+          "audio": "voice/serena21.mp3",
+          "answers": [
+              {
+                  "text": "WHAT?",
+                  "nextNode": "22"
+              }
+          ]
+      },
+      {
+          "id": "22",
+          "audio": "voice/serena22.mp3",
+          "answers": [
+              {
+                  "text": "I think I'm gonna leave now...",
+                  "url": "index.html"
+              }
+          ]
+      },
+      {
+          "id": "23",
+          "audio": "voice/serena23.mp3",
+          "answers": [
+              {
+                  "text": "What?",
+                  "url": "secretChris.html"
+              }
+          ]
+      },
+      {
+          "id": "24",
+          "audio": "voice/serena24.mp3",
+          "answers": [
+              {
+                  "text": "Spanisch?",
+                  "nextNode": "25"
+              },
+              {
+                "text": "Como éstais?",
+                "nextNode": "26"
+            }
+          ]
+      },
+      {
+          "id": "25",
+          "audio": "voice/serena25.mp3",
+          "answers": [
+              {
+                  "text": "Como éstais?",
+                  "nextNode": "26"
+              }
+          ]
+      },
+      {
+          "id": "26",
+          "audio": "voice/serena26.mp3",
+          "answers": [
+              {
+                  "text": "Yo también estoy bien. ¿Qué haces? ¿Tienes intereses especiales?",
+                  "nextNode": "27"
+              }
+          ]
+      },
+      {
+          "id": "27",
+          "audio": "voice/serena27.mp3",
+          "answers": [
+              {
+                  "text": "Wette du chasch garned spanisch.",
+                  "nextNode": "29"
+              },
+              {
+                "text": "¿Cuántos años tienes?.",
+                "nextNode": "28"
+            }
+          ]
+      },
+      {
+          "id": "28",
+          "audio": "voice/serena28.mp3",
+          "answers": [
+              {
+                  "text": "Wette du chasch garned spanisch.",
+                  "nextNode": "29"
+              }
+          ]
+      },
+      {
+          "id": "29",
+          "audio": "voice/serena29.mp3",
+          "answers": [
+              {
+                  "text": "Ja okey sorry",
+                  "nextNode": "30"
+              },
+              {
+                "text": "Nur well du Duolingo abeladisch, heisst das ned dass du automatisch spanisch chasch...",
+                "nextNode": "31"
+            }
+          ]
+      },
+      {
+          "id": "30",
+          "audio": "voice/serena30.mp3",
+          "answers": [
+              {
+                  "text": "Ich han ja gseid es duet mer leid??",
+                  "nextNode": "32"
+              },
+              {
+                "text": "Boah nei chum mer ned so.",
+                "nextNode": "33"
+            }
+          ]
+      },
+      {
+          "id": "31",
+          "audio": "voice/serena31.mp3",
+          "answers": [
+              {
+                  "text": "Boah nei chum mer ned so.",
+                  "nextNode": "33"
+              }
+          ]
+      },
+      {
+          "id": "32",
+          "audio": "voice/serena32.mp3",
+          "answers": [
+              {
+                  "text": "Ja.",
+                  "nextNode": "34"
+              }
+          ]
+      },
+      {
+          "id": "33",
+          "audio": "voice/serena33.mp3",
+          "answers": [
+              {
+                  "text": "Was wenn jo?",
+                  "nextNode": "35"
+              }
+          ]
+      },
+      {
+          "id": "34",
+          "audio": "voice/serena34.mp3",
+          "answers": [
+              {
+                  "text": "Was für Hoffnig?",
+                  "nextNode": "35"
+              }
+          ]
+      },
+      {
+          "id": "35",
+          "audio": "voice/serena35.mp3",
+          "answers": [
+              {
+                  "text": "WAS WISO??",
+                  "nextNode": "36"
+              }
+          ]
+      },
+      {
+          "id": "36",
+          "audio": "voice/serena36.mp3",
+          "answers": [
+              {
+                  "text": "MER SEND NED INERE BEZIEHIG??",
+                  "nextNode": "37"
+              }
+          ]
+      },
+      {
+          "id": "37",
+          "audio": "voice/serena37.mp3",
+          "answers": [
+              {
+                  "text": "Wie willsch du bitte schwanger si vo mir? Das macht kei sinn?",
+                  "nextNode": "38"
+              }
+          ]
+      },
+      {
+          "id": "38",
+          "audio": "voice/serena38.mp3",
+          "answers": [
+              {
+                  "text": "Was usglööst? Ich han dich beleidigt? Das esch kei beziehig?",
+                  "nextNode": "39"
+              }
+          ]
+      },
+      {
+          "id": "39",
+          "audio": "voice/serena39.mp3",
+          "answers": [
+              {
+                  "text": "Ich chan das ned, ich muss goh... das isch mir z vill.",
+                  "url": "index.html"
+              }
+          ]
+      },
+      {
+          "id": "40",
+          "audio": "voice/serena40.mp3",
+          "answers": [
+              {
+                  "text": "What?",
+                  "nextNode": "16"
+              }
+          ]
+      }
+  ]
+}

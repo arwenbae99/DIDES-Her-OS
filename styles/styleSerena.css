@@ -1,0 +1,152 @@
+:root {
+    --background: #FF69B4;
+    --buttons: #FF83C1;
+    --fontcolor: #ffffff;
+}
+
+body {
+    height: 100%;
+    margin: 0;
+    background: var(--background);
+    padding: 0;
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: url('fonts/Inter-Regular.woff2') format('woff2');
+    font-weight: 300;
+    font-style: normal;
+}
+
+#bm {
+    display: fixed;
+    width: auto;
+    height: auto;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 150px;
+}
+
+p {
+    text-align: center;
+    color: var(--fontcolor);
+    font-family: Inter;
+    margin: 0;
+    padding: 10px 25px;
+}
+
+#directions {
+    padding-top: 350px;
+    font-size: 15px;
+}
+
+.answerFlexbox {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    opacity: 0;
+    gap: 20px;
+    transition: opacity 0.5s ease-in-out;
+    pointer-events: none;
+}
+
+.buttonAnswer {
+    background-color: var(--buttons);
+    color: var(--fontcolor);
+    font-size: 20px;
+    width: auto;
+    max-width: 250px;
+    padding: 0px 25px;
+    border-radius: 5px;
+    margin: 0;
+    display: inline-block;
+    line-height: 1.5; /* Set a specific line-height value */
+    transition: opacity 0.5s ease-in-out;
+}
+
+#replay {
+    position: fixed;
+    bottom: 70px;
+    left: calc(50% - 24px);
+}
+
+.hidden {
+    display: none;
+}
+
+.fade-in {
+    opacity: 1;
+    transition: opacity 0.5s ease-in-out;
+    pointer-events: auto; /* Enable pointer events when answers appear */
+}
+
+.fade-out {
+    opacity: 0;
+    transition: opacity 0.5s ease-in-out;
+}
+
+/* Add this CSS to style the start button */
+#startButton {
+    display: flex;
+    justify-content: center;
+    align-items: center; /* Vertically center the button */
+    margin: 0 auto; /* Center the button horizontally */
+    margin-top: 20px;
+}
+
+#start {
+    background-color: var(--fontcolor);
+    color: var(--buttons);
+    font-size: 20px;
+    line-height: 130%;
+    padding:10px 25px;
+    border-radius: 5px;
+    max-width: 250px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, opacity 0.5s ease; /* Add transition for opacity */
+}
+
+
+.start-fade-out {
+    opacity: 0;
+    pointer-events: none; /* Disable pointer events for the faded-out button */
+}
+
+
+#visualizer {
+    position: fixed;
+    margin-top: 200px;
+    margin-left: 50%;
+    margin-bottom: 0;
+    transform: translate(-50%, -50%);
+    width: 200px;
+    height: 200px;
+}
+
+circle {
+    fill: none;
+    stroke: #ffffff;
+    stroke-width: 3;
+}
+
+
+
+#transitionBox {
+    position: fixed;
+    z-index: 10;
+    width: 100%;
+    height: 100%;
+    background-color: #ffffff;
+    margin: 0;
+    pointer-events: none; /* Make the #transitionBox ignore pointer events */
+}
+
+.animate-in {
+    animation: fade-in 0.2s linear 2s 1 forwards;
+}
+
+
+@keyframes fade-in {
+    from {opacity: 1;}
+    to {opacity: 0;}
+}
