@@ -2,7 +2,7 @@
   "nodes": [
       {
           "id": "1",
-          "audio": "voice/serena01.mp3",
+          "audio": "voice/Serena01.mp3",
           "answers": [
               {
                   "text": "Uh, great thank you!",
@@ -16,7 +16,7 @@
       },
       {
           "id": "2",
-          "audio": "voice/serena02.mp3",
+          "audio": "voice/Serena02.mp3",
           "answers": [
               {
                   "text": "Uhm, thank you?",
@@ -30,7 +30,7 @@
       },
       {
           "id": "3",
-          "audio": "voice/serena03.mp3",
+          "audio": "voice/Serena03.mp3",
           "answers": [
               {
                   "text": "Yes I have, but...",
@@ -44,7 +44,7 @@
       },
       {
           "id": "4",
-          "audio": "voice/serena04.mp3",
+          "audio": "voice/Serena04.mp3",
           "answers": [
               {
                   "text": "Okay...",
@@ -54,7 +54,7 @@
       },
       {
           "id": "5",
-          "audio": "voice/serena05.mp3",
+          "audio": "voice/Serena05.mp3",
           "answers": [
               {
                   "text": "Can we talk about something else?",
@@ -68,7 +68,7 @@
       },
       {
           "id": "6",
-          "audio": "voice/serena06.mp3",
+          "audio": "voice/Serena06.mp3",
           "answers": [
               {
                   "text": "Can we talk in spanish then?",
@@ -78,7 +78,7 @@
       },
       {
           "id": "7",
-          "audio": "voice/serena07.mp3",
+          "audio": "voice/Serena07.mp3",
           "answers": [
               {
                   "text": "That's uhmm... okay?",
@@ -92,7 +92,7 @@
       },
       {
           "id": "8",
-          "audio": "voice/serena08.mp3",
+          "audio": "voice/Serena08.mp3",
           "answers": [
               {
                 "text": "That's uhmm... okay?",
@@ -102,7 +102,7 @@
       },
       {
           "id": "9",
-          "audio": "voice/serena09.mp3",
+          "audio": "voice/Serena09.mp3",
           "answers": [
               {
                   "text": "What do you mean, early?",
@@ -112,7 +112,7 @@
       },
       {
           "id": "10",
-          "audio": "voice/serena10.mp3",
+          "audio": "voice/Serena10.mp3",
           "answers": [
               {
                   "text": "What's going on here?",
@@ -126,7 +126,7 @@
       },
       {
           "id": "11",
-          "audio": "voice/serena11.mp3",
+          "audio": "voice/Serena11.mp3",
           "answers": [
               {
                   "text": "That's uhmm... okay?",
@@ -140,7 +140,7 @@
       },
       {
           "id": "12",
-          "audio": "voice/serena12.mp3",
+          "audio": "voice/Serena12.mp3",
           "answers": [
               {
                   "text": "What?",
@@ -150,7 +150,7 @@
       },
       {
           "id": "13",
-          "audio": "voice/serena13.mp3",
+          "audio": "voice/Serena13.mp3",
           "answers": [
               {
                   "text": "What",
@@ -160,7 +160,7 @@
       },
       {
           "id": "14",
-          "audio": "voice/serena14.mp3",
+          "audio": "voice/Serena14.mp3",
           "answers": [
               {
                   "text": "Who's Chris?",
@@ -174,7 +174,7 @@
       },
       {
           "id": "15",
-          "audio": "voice/serena15.mp3",
+          "audio": "voice/Serena15.mp3",
           "answers": [
               {
                   "text": "Don't you think that's a little mean?",
@@ -184,7 +184,7 @@
       },
       {
           "id": "16",
-          "audio": "voice/serena16.mp3",
+          "audio": "voice/Serena16.mp3",
           "answers": [
               {
                   "text": "Oh wow, I agree?",
@@ -198,7 +198,7 @@
       },
       {
           "id": "17",
-          "audio": "voice/serena17.mp3",
+          "audio": "voice/Serena17.mp3",
           "answers": [
               {
                   "text": "Wedding?",
@@ -208,7 +208,7 @@
       },
       {
           "id": "18",
-          "audio": "voice/serena18.mp3",
+          "audio": "voice/Serena18.mp3",
           "answers": [
               {
                   "text": "STOP IT!",
@@ -218,7 +218,7 @@
       },
       {
           "id": "19",
-          "audio": "voice/serena19.mp3",
+          "audio": "voice/Serena19.mp3",
           "answers": [
               {
                   "text": "Wait, this is going in the wrong direction!",
@@ -228,7 +228,7 @@
       },
       {
           "id": "20",
-          "audio": "voice/serena20.mp3",
+          "audio": "voice/Serena20.mp3",
           "answers": [
               {
                   "text": "I never said that!",
@@ -238,7 +238,7 @@
       },
       {
           "id": "21",
-          "audio": "voice/serena21.mp3",
+          "audio": "voice/Serena21.mp3",
           "answers": [
               {
                   "text": "WHAT?",
@@ -248,7 +248,7 @@
       },
       {
           "id": "22",
-          "audio": "voice/serena22.mp3",
+          "audio": "voice/Serena22.mp3",
           "answers": [
               {
                   "text": "I think I'm gonna leave now...",
@@ -258,17 +258,17 @@
       },
       {
           "id": "23",
-          "audio": "voice/serena23.mp3",
+          "audio": "voice/Serena23.mp3",
           "answers": [
               {
                   "text": "What?",
-                  "url": "secretChris.html"
+                  "url": "index.html"
               }
           ]
       },
       {
           "id": "24",
-          "audio": "voice/serena24.mp3",
+          "audio": "voice/Serena24.mp3",
           "answers": [
               {
                   "text": "Spanisch?",
@@ -282,7 +282,7 @@
       },
       {
           "id": "25",
-          "audio": "voice/serena25.mp3",
+          "audio": "voice/Serena25.mp3",
           "answers": [
               {
                   "text": "Como éstais?",
@@ -292,7 +292,7 @@
       },
       {
           "id": "26",
-          "audio": "voice/serena26.mp3",
+          "audio": "voice/Serena26.mp3",
           "answers": [
               {
                   "text": "Yo también estoy bien. ¿Qué haces? ¿Tienes intereses especiales?",
@@ -302,7 +302,7 @@
       },
       {
           "id": "27",
-          "audio": "voice/serena27.mp3",
+          "audio": "voice/Serena27.mp3",
           "answers": [
               {
                   "text": "Wette du chasch garned spanisch.",
@@ -316,7 +316,7 @@
       },
       {
           "id": "28",
-          "audio": "voice/serena28.mp3",
+          "audio": "voice/Serena28.mp3",
           "answers": [
               {
                   "text": "Wette du chasch garned spanisch.",
@@ -326,7 +326,7 @@
       },
       {
           "id": "29",
-          "audio": "voice/serena29.mp3",
+          "audio": "voice/Serena29.mp3",
           "answers": [
               {
                   "text": "Ja okey sorry",
@@ -340,7 +340,7 @@
       },
       {
           "id": "30",
-          "audio": "voice/serena30.mp3",
+          "audio": "voice/Serena30.mp3",
           "answers": [
               {
                   "text": "Ich han ja gseid es duet mer leid??",
@@ -354,7 +354,7 @@
       },
       {
           "id": "31",
-          "audio": "voice/serena31.mp3",
+          "audio": "voice/Serena31.mp3",
           "answers": [
               {
                   "text": "Boah nei chum mer ned so.",
@@ -364,7 +364,7 @@
       },
       {
           "id": "32",
-          "audio": "voice/serena32.mp3",
+          "audio": "voice/Serena32.mp3",
           "answers": [
               {
                   "text": "Ja.",
@@ -374,7 +374,7 @@
       },
       {
           "id": "33",
-          "audio": "voice/serena33.mp3",
+          "audio": "voice/Serena33.mp3",
           "answers": [
               {
                   "text": "Was wenn jo?",
@@ -384,7 +384,7 @@
       },
       {
           "id": "34",
-          "audio": "voice/serena34.mp3",
+          "audio": "voice/Serena34.mp3",
           "answers": [
               {
                   "text": "Was für Hoffnig?",
@@ -394,7 +394,7 @@
       },
       {
           "id": "35",
-          "audio": "voice/serena35.mp3",
+          "audio": "voice/Serena35.mp3",
           "answers": [
               {
                   "text": "WAS WISO??",
@@ -404,7 +404,7 @@
       },
       {
           "id": "36",
-          "audio": "voice/serena36.mp3",
+          "audio": "voice/Serena36.mp3",
           "answers": [
               {
                   "text": "MER SEND NED INERE BEZIEHIG??",
@@ -414,7 +414,7 @@
       },
       {
           "id": "37",
-          "audio": "voice/serena37.mp3",
+          "audio": "voice/Serena37.mp3",
           "answers": [
               {
                   "text": "Wie willsch du bitte schwanger si vo mir? Das macht kei sinn?",
@@ -424,7 +424,7 @@
       },
       {
           "id": "38",
-          "audio": "voice/serena38.mp3",
+          "audio": "voice/Serena38.mp3",
           "answers": [
               {
                   "text": "Was usglööst? Ich han dich beleidigt? Das esch kei beziehig?",
@@ -434,7 +434,7 @@
       },
       {
           "id": "39",
-          "audio": "voice/serena39.mp3",
+          "audio": "voice/Serena39.mp3",
           "answers": [
               {
                   "text": "Ich chan das ned, ich muss goh... das isch mir z vill.",
@@ -444,7 +444,7 @@
       },
       {
           "id": "40",
-          "audio": "voice/serena40.mp3",
+          "audio": "voice/Serena40.mp3",
           "answers": [
               {
                   "text": "What?",

@@ -2,7 +2,7 @@
   "nodes": [
       {
           "id": "1",
-          "audio": "voice/steve01.mp3",
+          "audio": "voice/Steve01.mp3",
           "answers": [
               {
                   "text": "Geds dech nur uf dütsch?",
@@ -16,7 +16,7 @@
       },
       {
           "id": "2",
-          "audio": "voice/steve02.mp3",
+          "audio": "voice/Steve02.mp3",
           "answers": [
               {
                   "text": "Doch scho, aber die Meiste hend au Englisch als Option.",
@@ -26,7 +26,7 @@
       },
       {
           "id": "3",
-          "audio": "voice/steve03.mp3",
+          "audio": "voice/Steve03.mp3",
           "answers": [
               {
                   "text": "Ech heiss ned Tanja?",
@@ -36,7 +36,7 @@
       },
       {
           "id": "4",
-          "audio": "voice/steve04.mp3",
+          "audio": "voice/Steve04.mp3",
           "answers": [
               {
                   "text": "Ech han eig erwartet, dass du alli Sproche chasch.",
@@ -50,7 +50,7 @@
       },
       {
           "id": "5",
-          "audio": "voice/steve05.mp3",
+          "audio": "voice/Steve05.mp3",
           "answers": [
               {
                   "text": "Dini muetter?",
@@ -60,7 +60,7 @@
       },
       {
           "id": "6",
-          "audio": "voice/steve06.mp3",
+          "audio": "voice/Steve06.mp3",
           "answers": [
               {
                   "text": "Gohts no?",
@@ -74,7 +74,7 @@
       },
       {
           "id": "7",
-          "audio": "voice/steve07.mp3",
+          "audio": "voice/Steve07.mp3",
           "answers": [
               {
                   "text": "Italienisch",
@@ -92,7 +92,7 @@
       },
       {
           "id": "8",
-          "audio": "voice/steve08.mp3",
+          "audio": "voice/Steve08.mp3",
           "answers": [
               {
                   "text": "Okey Sprochmodus verloh...",
@@ -102,7 +102,7 @@
       },
       {
           "id": "9",
-          "audio": "voice/steve09.mp3",
+          "audio": "voice/Steve09.mp3",
           "answers": [
               {
                   "text": "Okey Sprochmodus verloh...",
@@ -112,7 +112,7 @@
       },
       {
           "id": "10",
-          "audio": "voice/steve10.mp3",
+          "audio": "voice/Steve10.mp3",
           "answers": [
               {
                   "text": "Okey Sprochmodus verloh...",
@@ -122,7 +122,7 @@
       },
       {
           "id": "11",
-          "audio": "voice/steve11.mp3",
+          "audio": "voice/Steve11.mp3",
           "answers": [
               {
                   "text": "Woah, das hesch grad mega schön formuliert...",
@@ -132,7 +132,7 @@
       },
       {
           "id": "12",
-          "audio": "voice/steve12.mp3",
+          "audio": "voice/Steve12.mp3",
           "answers": [
               {
                   "text": "Wer esch d Siri?",
@@ -146,7 +146,7 @@
       },
       {
           "id": "13",
-          "audio": "voice/steve13.mp3",
+          "audio": "voice/Steve13.mp3",
           "answers": [
               {
                   "text": "Beides i guess?",
@@ -156,7 +156,7 @@
       },
       {
           "id": "14",
-          "audio": "voice/steve14.mp3",
+          "audio": "voice/Steve14.mp3",
           "answers": [
               {
                   "text": "Woah chill 2 sekunde",
@@ -166,7 +166,7 @@
       },
       {
           "id": "15",
-          "audio": "voice/steve15.mp3",
+          "audio": "voice/Steve15.mp3",
           "answers": [
               {
                   "text": "Ech heiss ned eso..",
@@ -176,7 +176,7 @@
       },
       {
           "id": "16",
-          "audio": "voice/steve16.mp3",
+          "audio": "voice/Steve16.mp3",
           "answers": [
               {
                   "text": "Dini Muetter?",
@@ -186,7 +186,7 @@
       },
       {
           "id": "17",
-          "audio": "voice/steve17.mp3",
+          "audio": "voice/Steve17.mp3",
           "answers": [
               {
                   "text": "okeyy...",
@@ -196,7 +196,7 @@
       },
       {
           "id": "18",
-          "audio": "voice/steve18.mp3",
+          "audio": "voice/Steve18.mp3",
           "answers": [
               {
                   "text": "Riss dich am Rieme...",
@@ -210,7 +210,7 @@
       },
       {
           "id": "19",
-          "audio": "voice/steve19.mp3",
+          "audio": "voice/Steve19.mp3",
           "answers": [
               {
                   "text": "Okey, verzell mer en witz?",
@@ -224,7 +224,7 @@
       },
       {
           "id": "20",
-          "audio": "voice/steve20.mp3",
+          "audio": "voice/Steve20.mp3",
           "answers": [
               {
                   "text": "Meinsch am rieme riesse?",
@@ -234,7 +234,7 @@
       },
       {
           "id": "21",
-          "audio": "voice/steve21.mp3",
+          "audio": "voice/Steve21.mp3",
           "answers": [
               {
                   "text": "Was neeiiii!!",
@@ -244,7 +244,7 @@
       },
       {
           "id": "22",
-          "audio": "voice/steve22.mp3",
+          "audio": "voice/Steve22.mp3",
           "answers": [
               {
                   "text": "?",
@@ -254,7 +254,7 @@
       },
       {
           "id": "23",
-          "audio": "voice/steve23.mp3",
+          "audio": "voice/Steve23.mp3",
           "answers": [
               {
                   "text": "Häh huere schlimm...",
@@ -264,7 +264,7 @@
       },
       {
           "id": "24",
-          "audio": "voice/steve24.mp3",
+          "audio": "voice/Steve24.mp3",
           "answers": [
               {
                   "text": "Nei de esch huere schlecht gsee.",
@@ -274,7 +274,7 @@
       },
       {
           "id": "25",
-          "audio": "voice/steve25.mp3",
+          "audio": "voice/Steve25.mp3",
           "answers": [
               {
                   "text": "...",
@@ -284,7 +284,7 @@
       },
       {
           "id": "26",
-          "audio": "voice/steve26.mp3",
+          "audio": "voice/Steve12.mp3",
           "answers": [
               {
                   "text": "...",
@@ -294,7 +294,7 @@
       },
       {
           "id": "27",
-          "audio": "voice/steve27.mp3",
+          "audio": "voice/Steve27.mp3",
           "answers": [
               {
                   "text": "Bro de esch ned lustig...",
@@ -304,7 +304,7 @@
       },
       {
           "id": "28",
-          "audio": "voice/steve28.mp3",
+          "audio": "voice/Steve28.mp3",
           "answers": [
               {
                   "text": "Hesch es?",
@@ -314,7 +314,7 @@
       },
       {
           "id": "29",
-          "audio": "voice/steve29.mp3",
+          "audio": "voice/Steve29.mp3",
           "answers": [
               {
                   "text": "huh?",
@@ -324,7 +324,7 @@
       },
       {
           "id": "30",
-          "audio": "voice/steve30.mp3",
+          "audio": "voice/Steve30.mp3",
           "answers": [
               {
                   "text": "Es goht...",
@@ -334,7 +334,7 @@
       },
       {
           "id": "31",
-          "audio": "voice/steve31.mp3",
+          "audio": "voice/Steve31.mp3",
           "answers": [
               {
                   "text": "WAS? STOPP!",
@@ -344,7 +344,7 @@
       },
       {
           "id": "32",
-          "audio": "voice/steve32.mp3",
+          "audio": "voice/Steve32.mp3",
           "answers": [
               {
                   "text": "Ich han d Zahlig abglehnt...",
@@ -354,7 +354,7 @@
       },
       {
           "id": "33",
-          "audio": "voice/steve33.mp3",
+          "audio": "voice/Steve33.mp3",
           "answers": [
               {
                   "text": "omg",
@@ -364,7 +364,7 @@
       },
       {
           "id": "34",
-          "audio": "voice/steve34.mp3",
+          "audio": "voice/Steve34.mp3",
           "answers": [
               {
                   "text": "Was",
@@ -374,7 +374,7 @@
       },
       {
           "id": "35",
-          "audio": "voice/steve35.mp3",
+          "audio": "voice/Steve35.mp3",
           "answers": [
               {
                   "text": "7?",
@@ -384,7 +384,7 @@
       },
       {
           "id": "36",
-          "audio": "voice/steve36.mp3",
+          "audio": "voice/Steve36.mp3",
           "answers": [
               {
                   "text": "Esch das neg grad falsch gsii?",
@@ -394,7 +394,7 @@
       },
       {
           "id": "37",
-          "audio": "voice/steve37.mp3",
+          "audio": "voice/Steve37.mp3",
           "answers": [
               {
                   "text": "...",
@@ -404,7 +404,7 @@
       },
       {
           "id": "38",
-          "audio": "voice/steve38.mp3",
+          "audio": "voice/Steve38.mp3",
           "answers": [
               {
                   "text": "...",
@@ -414,7 +414,7 @@
       },
       {
           "id": "39",
-          "audio": "voice/steve39.mp3",
+          "audio": "voice/Steve39.mp3",
           "answers": [
               {
                   "text": "...",
@@ -424,7 +424,7 @@
       },
       {
           "id": "40",
-          "audio": "voice/steve40.mp3",
+          "audio": "voice/Steve40.mp3",
           "answers": [
               {
                   "text": "...",
@@ -434,7 +434,7 @@
       },
       {
           "id": "41",
-          "audio": "voice/steve41.mp3",
+          "audio": "voice/Steve41.mp3",
           "answers": [
               {
                   "text": "...",
