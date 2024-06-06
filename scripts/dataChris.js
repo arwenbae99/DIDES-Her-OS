@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const audioPlayer = document.getElementById('audioPlayer');
     const answersDiv = document.getElementById('answerFlexbox');
     const transitionDiv = document.getElementById('transitionBox');
+    const transitionDivGrey = document.getElementById('transitionBoxGrey');
     const replayButton = document.getElementById('replay');
     const startButton = document.getElementById('start');
     const svgCircle = document.querySelector("#visualizer circle");
@@ -74,7 +75,14 @@ document.addEventListener("DOMContentLoaded", function() {
                 buttonDiv.innerHTML = `<p>${answer.text}</p>`;
                 buttonDiv.onclick = () => {
                     if (answer.url) {
-                        window.location.href = answer.url;
+                        transitionDivGrey.classList.add('fade-in-transitionBox');
+                        setTimeout(function() {
+                            // Second action
+                            console.log("Transition Timeout");
+                            // Redirect to the specified URL    window.location.href = answer.url;
+                            window.location.href = answer.url;
+                        }, 200); // Wait for 2 seconds (2000 milliseconds)
+
                     } else {
                         loadNode(answer.nextNode, storyData); // Load the next node
                     }
