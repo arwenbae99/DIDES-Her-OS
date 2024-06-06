@@ -2,6 +2,10 @@
     --background: #1F1F1F;
     --buttons: #414141;
     --fontcolor: #ffffff;
+    --maria: #D72A3E;
+    --serena: #FF69B4;
+    --chris: #04BB0C;
+    --steve: #2079FF;
 }
 
 body, html {
@@ -17,14 +21,6 @@ body, html {
     font-style: normal;
 }
 
-#bm {
-    display: fixed;
-    width: auto;
-    height: auto;
-    padding-left: 50px;
-    padding-right: 50px;
-    padding-top: 150px;
-}
 
 p {
     text-align: center;
@@ -34,46 +30,132 @@ p {
     padding: 10px 25px;
 }
 
-#directions {
-    padding-top: 100px;
+a {
+    text-align: center;
+    color: var(--fontcolor);
+    font-family: Inter;
+    margin: 0;
     font-size: 20px;
+    text-decoration: none;
+}
+
+#thank-you {
+    padding-top: 100px;
     max-width: 250px;
     margin: 0 auto;
-}
-
-.answerFlexbox {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    opacity: 0;
-    gap: 20px;
-    transition: opacity 0.5s ease-in-out;
-    pointer-events: none;
-}
-
-#answerFlexbox {
-    margin-top: 20px;
-}
-
-
-.buttonAnswer {
-    background-color: var(--buttons);
-    color: var(--fontcolor);
     font-size: 20px;
-    width: auto;
-    max-width: 250px;
-    border-radius: 5px;
-    margin: 0;
-    display: inline-block;
-    line-height: 1.5; /* Set a specific line-height value */
-    transition: opacity 0.5s ease-in-out;
 }
 
-#replay {
-    position: fixed;
-    bottom: 70px;
-    left: calc(50% - 24px);
+#directions {
+    padding-top: 50px;
+    max-width: 250px;
+    margin: 0 auto;
+    padding-bottom: 30px;
+    font-size: 15px;
 }
+
+#note {
+    position: fixed;
+    text-align: center;
+    margin: auto auto;
+    font-size: 15px;
+    bottom: 150px;
+    left: 8vw;
+}
+
+
+
+#startButton {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 30px auto; 
+}
+
+#start {
+    background-color: var(--fontcolor);
+    color: var(--buttons);
+    font-size: 20px;
+    line-height: 130%;
+    padding:10px 25px;
+    border-radius: 5px;
+    max-width: 250px;
+    cursor: pointer;
+
+}
+
+
+
+
+
+
+#characterGrid {
+    position: relative;
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    grid-row: 45vw;
+    grid-template-columns: 1fr 1fr;
+    gap: 50px;
+    text-align: center;
+    align-items: center;
+    justify-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 280px;
+    margin-top: 50px
+}
+
+#maria {
+    justify-items: center;
+    align-items: center;
+    background-color: var(--maria);
+    border-radius: 9999px;
+    padding: 45px 30px;
+}
+
+#serena {
+    justify-items: center;
+    align-items: center;
+    background-color: var(--serena);
+    border-radius: 9999px;
+    padding: 45px 24px;
+}
+
+#chris {
+    justify-items: center;
+    align-items: center;
+    background-color: var(--chris);
+    border-radius: 9999px;
+    padding: 45px 33px;
+}
+
+#steve {
+    justify-items: center;
+    align-items: center;
+    background-color: var(--steve);
+    border-radius: 9999px;
+    padding: 45px 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 .hidden {
     display: none;
@@ -112,26 +194,6 @@ p {
 }
 
 
-.start-fade-out {
-    opacity: 0;
-    pointer-events: none; /* Disable pointer events for the faded-out button */
-}
-
-
-
-/* Progress bar styles */
-#progressContainer {
-    width: calc(100% - 150px);
-    background-color: var(--buttons);
-    margin: 10px auto;
-}
-
-#progressBar {
-    width: 0;
-    height: 8px;
-    background-color: #ffffff;
-    transition: width 0.5s ease-in-out;
-}
 
 #transitionBox {
     position: fixed;
@@ -149,14 +211,4 @@ p {
     visibility: visible !important;
     opacity: 1 !important;
     transition: opacity 0.2s ease-in-out;
-}
-
-
-#note {
-    position: fixed;
-    text-align: center;
-    margin: auto auto;
-    font-size: 15px;
-    bottom: 150px;
-    left: 8vw;
 }
