@@ -318,7 +318,7 @@
           "answers": [
               {
                   "text": "huh?",
-                  "url": "index.html"
+                  "url": "end.html"
               }
           ]
       },
@@ -488,7 +488,7 @@
           "answers": [
               {
                   "text": "...",
-                  "url": "index.html"
+                  "url": "end.html"
               }
           ]
       }

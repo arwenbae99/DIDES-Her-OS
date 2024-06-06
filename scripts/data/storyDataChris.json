@@ -72,7 +72,7 @@
       "answers": [
         {
           "text": "Wait, where are you going...",
-          "url": "index.html "
+          "url": "end.html "
         }
       ]
     },
@@ -112,7 +112,7 @@
       "answers": [
         {
           "text": "Oh, bye!",
-          "url": "index.html"
+          "url": "end.html"
         }
       ]
     },
@@ -344,7 +344,7 @@
       "answers": [
         {
           "text": "CHRIS?! WHAT DID YOU DO?!",
-          "url": "index.html"
+          "url": "end.html"
         }
       ]
     },
@@ -388,7 +388,7 @@
       "answers": [
         {
           "text": "Oh okay, bye?",
-          "url": "index.html"
+          "url": "end.html"
         }
       ]
     }

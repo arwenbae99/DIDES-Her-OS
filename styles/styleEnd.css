@@ -35,33 +35,26 @@ a {
     color: var(--fontcolor);
     font-family: Inter;
     margin: 0;
-    font-size: 20px;
+    font-size: 15px;
     text-decoration: none;
 }
 
 #thank-you {
-    padding-top: 100px;
+    padding-top: 80px;
     max-width: 250px;
     margin: 0 auto;
     font-size: 20px;
 }
 
 #directions {
-    padding-top: 50px;
+    padding-top: 5px;
     max-width: 250px;
     margin: 0 auto;
-    padding-bottom: 30px;
+    padding-bottom: 40px;
     font-size: 15px;
 }
 
-#note {
-    position: fixed;
-    text-align: center;
-    margin: auto auto;
-    font-size: 15px;
-    bottom: 150px;
-    left: 8vw;
-}
+
 
 
 
@@ -69,7 +62,7 @@ a {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: 30px auto; 
+    margin: 10px auto; 
 }
 
 #start {
@@ -90,19 +83,22 @@ a {
 
 
 #characterGrid {
+    background-color: var(--buttons);
     position: relative;
     display: grid;
     grid-template-rows: 1fr 1fr;
     grid-row: 45vw;
     grid-template-columns: 1fr 1fr;
-    gap: 50px;
+    gap: 15px;
     text-align: center;
     align-items: center;
     justify-items: center;
     margin-left: auto;
     margin-right: auto;
-    width: 280px;
-    margin-top: 50px
+    width: 220px;
+    margin-top: 30px;
+    padding: 30px;
+    border-radius: 50px;
 }
 
 #maria {
@@ -110,7 +106,7 @@ a {
     align-items: center;
     background-color: var(--maria);
     border-radius: 9999px;
-    padding: 45px 30px;
+    padding: 40px 30px;
 }
 
 #serena {
@@ -118,7 +114,7 @@ a {
     align-items: center;
     background-color: var(--serena);
     border-radius: 9999px;
-    padding: 45px 24px;
+    padding: 40px 25px;
 }
 
 #chris {
@@ -126,7 +122,7 @@ a {
     align-items: center;
     background-color: var(--chris);
     border-radius: 9999px;
-    padding: 45px 33px;
+    padding: 40px 31px;
 }
 
 #steve {
@@ -134,7 +130,7 @@ a {
     align-items: center;
     background-color: var(--steve);
     border-radius: 9999px;
-    padding: 45px 30px;
+    padding: 40px 29px;
 }
 
 
@@ -211,4 +207,15 @@ a {
     visibility: visible !important;
     opacity: 1 !important;
     transition: opacity 0.2s ease-in-out;
+}
+
+
+#note {
+    position: fixed;
+    width: 200px;
+    margin: auto auto;
+    font-size: 15px;
+    bottom: 30px;
+    transform: translate(-50%);
+    left: 50vw;
 }

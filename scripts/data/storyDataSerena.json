@@ -252,7 +252,7 @@
           "answers": [
               {
                   "text": "I think I'm gonna leave now...",
-                  "url": "index.html"
+                  "url": "end.html"
               }
           ]
       },
@@ -262,7 +262,7 @@
           "answers": [
               {
                   "text": "What?",
-                  "url": "index.html"
+                  "url": "end.html"
               }
           ]
       },
@@ -438,7 +438,7 @@
           "answers": [
               {
                   "text": "Ich chan das ned, ich muss goh... das isch mir z vill.",
-                  "url": "index.html"
+                  "url": "end.html"
               }
           ]
       },

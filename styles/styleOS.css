@@ -12,15 +12,6 @@ body {
     font-style: normal;
 }
 
-#bm {
-    display: fixed;
-    width: auto;
-    height: auto;
-    padding-left: 50px;
-    padding-right: 50px;
-    padding-top: 150px;
-}
-
 p {
     text-align: center;
     color: var(--fontcolor);
@@ -30,7 +21,7 @@ p {
 }
 
 #directions {
-    padding-top: 350px;
+    padding-top: 220px;
     font-size: 15px;
 }
 
@@ -89,8 +80,8 @@ p {
 }
 
 #start {
-    background-color: var(--fontcolor);
-    color: var(--buttons);
+    background-color: var(--buttons);
+    color: var(--fontcolor);
     font-size: 20px;
     line-height: 130%;
     padding:10px 25px;
@@ -109,7 +100,7 @@ p {
 
 #visualizer {
     position: fixed;
-    margin-top: 200px;
+    margin-top: 120px;
     margin-left: 50%;
     margin-bottom: 0;
     transform: translate(-50%, -50%);

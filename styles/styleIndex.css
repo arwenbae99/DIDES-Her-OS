@@ -23,7 +23,7 @@ body, html {
     height: auto;
     padding-left: 50px;
     padding-right: 50px;
-    padding-top: 150px;
+    padding-top: 80px;
 }
 
 p {
@@ -35,7 +35,7 @@ p {
 }
 
 #directions {
-    padding-top: 100px;
+    padding-top: 30px;
     font-size: 20px;
     max-width: 250px;
     margin: 0 auto;
@@ -154,9 +154,10 @@ p {
 
 #note {
     position: fixed;
-    text-align: center;
+    width: 200px;
     margin: auto auto;
     font-size: 15px;
-    bottom: 150px;
-    left: 8vw;
+    bottom: 30px;
+    transform: translate(-50%);
+    left: 50vw;
 }

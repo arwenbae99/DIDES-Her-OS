@@ -204,7 +204,7 @@
       "answers": [
         {
           "text": "I'm not done with you!",
-          "url": "index.html "
+          "url": "end.html "
         }
       ]
     },
@@ -278,7 +278,7 @@
       "answers": [
         {
           "text": "Boah denn halt tschüss",
-          "url": "index.html"
+          "url": "end.html"
         }
       ]
     },
@@ -362,7 +362,7 @@
       "answers": [
         {
           "text": "GET BACK HERE!!!",
-          "url": "index.html"
+          "url": "end.html"
         }
       ]
     },
